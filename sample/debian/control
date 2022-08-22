@@ -7,7 +7,7 @@ Standards-Version: 1.0.0
 
 Package: sample-new
 Replaces: sample-old (<< 2.0-1~)
-Breaks: sample-old (<< 2.0-1~)
+Breaks: sample-old (<< 1.0-1~)
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Just a test sample

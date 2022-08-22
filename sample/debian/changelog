@@ -1,3 +1,9 @@
+sample (0.4) jammy; urgency=medium
+
+  * modify Breaks version
+
+ -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 10:24:03 +0800
+
 sample (0.3) jammy; urgency=medium
 
   * This is debian packae for test transition
