@@ -1,3 +1,10 @@
+sample (0.7) jammy; urgency=medium
+
+  * rename script file sample -> sample-new
+
+ -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 11:54:35 +0800
+
+
 sample (0.6) jammy; urgency=medium
 
   * correct replace and breaks field in control
