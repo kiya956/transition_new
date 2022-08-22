@@ -1,3 +1,9 @@
+sample (0.5) jammy; urgency=medium
+
+  * Modify Replace version
+
+ -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 10:56:47 +0800
+
 sample (0.4) jammy; urgency=medium
 
   * modify Breaks version
