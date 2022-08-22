@@ -1,0 +1,5 @@
+sample (0.0.1) jammy; urgency=medium
+
+  * This is debian packae for test transition
+
+ -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 09:22:07 +0800
