@@ -1,4 +1,4 @@
-sample (0.0.1) jammy; urgency=medium
+sample (0.3) jammy; urgency=medium
 
   * This is debian packae for test transition
 
