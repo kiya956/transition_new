@@ -1,42 +1,5 @@
-sample (0.10transition) jammy; urgency=medium
+samplenew (0.2) jammy; urgency=medium
 
-  * new version for sample new
+  * test change source name and package name
 
- -- ChunAn Wu <an.wu@canonical.com>  Tue, 23 Aug 2022 08:42:26 +0800
-
-sample (0.8) jammy; urgency=medium
-
-  * rename script file name back
-
- -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 16:01:17 +0800
-
-sample (0.7) jammy; urgency=medium
-
-  * rename script file sample -> sample-new
-
- -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 11:54:35 +0800
-
-
-sample (0.6) jammy; urgency=medium
-
-  * correct replace and breaks field in control
-
- -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 11:54:35 +0800
-
-sample (0.5) jammy; urgency=medium
-
-  * Modify Replace version
-
- -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 10:56:47 +0800
-
-sample (0.4) jammy; urgency=medium
-
-  * modify Breaks version
-
- -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 10:24:03 +0800
-
-sample (0.3) jammy; urgency=medium
-
-  * This is debian packae for test transition
-
- -- ChunAn Wu <an.wu@canonical.com>  Mon, 22 Aug 2022 09:22:07 +0800
+ -- ChunAn Wu <an.wu@canonical.com>  Tue, 23 Aug 2022 09:16:48 +0800
